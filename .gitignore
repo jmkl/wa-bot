@@ -1,0 +1,5 @@
+database
+.env
+.air.toml
+tmp
+listdir
